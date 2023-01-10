@@ -4,7 +4,6 @@
 import random
 from math import log
 import sys
-import verify
 import os
 
 continuar = 0
